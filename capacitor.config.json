@@ -1,0 +1,6 @@
+{
+  "appId": "com.rentpro.broker",
+  "appName": "RentPro",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
